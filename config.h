@@ -60,3 +60,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #    define OLED_FADE_OUT
 #    define OLED_FADE_OUT_INTERVAL 15
 #endif
+
+#define SPLIT_WPM_ENABLE
